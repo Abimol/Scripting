@@ -1,0 +1,13 @@
+C:\Users\Jonathan\Desktop\Scripting\taller\bin\Debug\netcoreapp3.1\taller.exe
+C:\Users\Jonathan\Desktop\Scripting\taller\bin\Debug\netcoreapp3.1\taller.deps.json
+C:\Users\Jonathan\Desktop\Scripting\taller\bin\Debug\netcoreapp3.1\taller.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Scripting\taller\bin\Debug\netcoreapp3.1\taller.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Scripting\taller\bin\Debug\netcoreapp3.1\taller.dll
+C:\Users\Jonathan\Desktop\Scripting\taller\bin\Debug\netcoreapp3.1\taller.pdb
+C:\Users\Jonathan\Desktop\Scripting\taller\obj\Debug\netcoreapp3.1\taller.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Scripting\taller\obj\Debug\netcoreapp3.1\taller.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Scripting\taller\obj\Debug\netcoreapp3.1\taller.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Scripting\taller\obj\Debug\netcoreapp3.1\taller.dll
+C:\Users\Jonathan\Desktop\Scripting\taller\obj\Debug\netcoreapp3.1\taller.pdb
+C:\Users\Jonathan\Desktop\Scripting\taller\obj\Debug\netcoreapp3.1\taller.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Scripting\taller\obj\Debug\netcoreapp3.1\taller.csprojAssemblyReference.cache
