@@ -8,7 +8,7 @@ namespace taller {
       
         string name;
         float baseAttack;
-        short baseDefense;
+        int baseDefense;
         short baseSpeed;
 
         string[] affinitys = { "Fire", "Wind", "Water", "Earth", "Dark", "Light" };
@@ -19,11 +19,13 @@ namespace taller {
         short moveSet;
         short hp;
 
+        Random random = new Random();
+
         public Critters() {
 
             name = "Abimol";
-            baseAttack = 20f;
-            baseDefense = 20;
+            baseAttack = random.Next(1,21);
+            baseDefense = random.Next(1, 21);           
             baseSpeed = 10;
             affinityCritter = 1;
             moveSet = 2;
@@ -52,7 +54,6 @@ namespace taller {
 
                     if (i == affinityCritter && j == affinityCritter) affinityMutliplier = 0.5f;
                     else affinityMutliplier = 1f;
-
 
                     Console.Write("Hola...");
                 }
